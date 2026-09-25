@@ -1,0 +1,3 @@
+pyspark
+pip install -r requirements.txt
+spark-submit spark_category_sales.py
